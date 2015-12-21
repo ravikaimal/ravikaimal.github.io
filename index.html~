@@ -100,7 +100,7 @@
 	      Created a new web site for the Immigration Services department using the Content Management System.<br>
 	      This web site helped the immigration services department to better manage the services provided to the international scholars. 
 	      <p>
-	      <p>
+	      <p class="text-center">
 		<b>Amazon.com, Seattle, Washington, USA</b><br>
 		Software Development Engineer Intern<br>
 		May 2015 - August 2015<br>
@@ -110,46 +110,30 @@
 		Language: C++ <br>
 		Libraries: boost, STL,Curlpp, RapidJSON
 		<p>
-				
+		<b>TATA Consultancy Services,Kochi,Kerala,India</b><br>
+		Assistant Consultant<br>
+		July 2012 - July 2014<br>
+		I worked as a technical lead for a major banking and financial services client in the United States and led a team of 10 developers <br>to install a critical module needed for a new process to send legal notification documents to card members.<br>
+		Technologies:Java/J2EE, Struts
+		<br><br>
+		IT Analyst
+		December 2009 - June 2012<br>
+		
+		<p>
+		<p>
+		<b>IBS Software Services,Trivandrum,Kerala,India</b><br>
+		Project Lead<br>
+		April 2009 - November 2009<br>
+		<br><br>
+		Technical Lead<br>
+		October 2007 - March 2009
+		<br><br>
+		Senior Software Engineer<br>
+		September 2006 - August 2007<br>
+		<br><br>
+		Software Engineer<br>
+		June 2004 - August 2006<br>
         </div>
-    </div>
-    <div class="row features">
-
-        <div class="col-lg-2 col-sm-4">
-            <div class="hexicon">
-                <div class="inicon retina"></div>
-            </div>
-        </div>
-
-        <div class="col-lg-2 col-sm-4">
-            <div class="hexicon">
-                <div class="inicon support"></div>
-            </div>
-        </div>
-
-        <div class="col-lg-2 col-sm-4">
-            <div class="hexicon">
-                <div class="inicon speed"></div>
-            </div>
-        </div>
-
-        <div class="col-lg-2 col-sm-4">
-            <div class="hexicon">
-                <div class="inicon social"></div>
-            </div>
-        </div>
-        <div class="col-lg-2 col-sm-4">
-            <div class="hexicon">
-                <div class="inicon shopping"></div>
-            </div>
-        </div>
-        <div class="col-lg-2 col-sm-4">
-            <div class="hexicon">
-                <div class="inicon cloud"></div>
-            </div>
-        </div>
-
-
     </div>
 
 
