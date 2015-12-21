@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Ravi Kumar Kaimal - Portfolio</title>
+		<link rel="stylesheet" href="css/style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	</head>
+
+	<body>
+		<div class="head">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="">Home</a></li>
+						<li><a href="">Projects</a></li>
+						<li><a href="">Interests</a></li>
+						<li><a href="">Gallery</a></li>
+						<li><a href="">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+		</div>
+		<div class="contentblock">
+			<div class="leftmenu">I am the left menu bar</div>
+			<div class="vsep">&nbsp;</div>
+			<div class="details">I am the right content bar</div>
+		</div>
+	</body>
+	
+</html>

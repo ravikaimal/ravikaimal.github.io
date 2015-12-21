@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Ravi Kumar Kaimal - Portfolio</title>
+		<link rel="stylesheet" href="css/style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	</head>
+
+	<body>
+		I am a software engineer and I code. I love to code in Java. I am doing my Master's in Computer Science and Engineering
+		at the State University of New York in Buffalo. I will be graduating very soon.
+		
+		Master's program was one and I really liked the following courses.
+		
+		CSE 521
+		CSE 
+		
+		I worked in the IT industry before joining for my Master's program. I worked for TATA Consultancy Services for 4.5 years and 5.5 years for
+		IBS Software services.		 
+	</body>
+	
+</html>
