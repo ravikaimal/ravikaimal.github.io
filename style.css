@@ -775,6 +775,8 @@ p.lead{
 }
 .triangles {
     margin-bottom: 40px;
+	margin-left:15%;
+	margin-right:15%
 }
 .triangles .icon{
     font-size: 22pt;
