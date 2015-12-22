@@ -85,12 +85,16 @@
 		October 2000 - May 2004 <p>
         </div>
 	<p><p><p>
-        <div class="col-md-12 text-center">
-            <h2>Work Experience</h2>
+        <div class="col-md-12">
+	    <div class="text-center">
+	            <h2>Work Experience</h2>
+	    
 
-	    <p class="text-center"><b>University at Buffalo, The State University of New York, Buffalo, New York, USA</b> <br>	
+	    <p><b>University at Buffalo, The State University of New York, Buffalo, New York, USA</b> <br>	
                IT Graduate Assistant, Office of International Education
 	      October 2014 - May 2015, August 2015 - December 2015 <br>
+	      </div>
+	      <div class="text-left">
 	      I provided technical support, maintained and enhanced the International Student Admissions Database,<br>
 	      International Student & Scholar Services web site, English Language Institute web site and admission database<br>
               Immigration Services department web site.<br>
@@ -99,6 +103,7 @@
 	      saving on average 30 minutes per day manual hours.<br>
 	      Created a new web site for the Immigration Services department using the Content Management System.<br>
 	      This web site helped the immigration services department to better manage the services provided to the international scholars. 
+	      </div>
 	      <p>
 	      <p class="text-center">
 		<b>Amazon.com, Seattle, Washington, USA</b><br>
