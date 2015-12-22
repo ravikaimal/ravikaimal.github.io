@@ -74,14 +74,15 @@
         <div class="col-md-12 text-left text-justify">
             <h2>Education</h2>
 
-	    <p><b>Master of Science in Computer Science and Engineering</b> <br>	
-              University at Buffalo, The State University of New York,
+	    <p><h4>Master of Science in Computer Science and Engineering</h4> <br>	
+              <b><a href="http://www.buffalo.edu">University at Buffalo, The State University of New York</a></b>,
 	      August 2014 - February 2016 <br>
 	      Courses: Operating Systems, Machine Learning, Data Intensive Computing, Analysis of Algorithms
 	 	Distributed Systems, Advanced Computing Systems<br>
 	     <p>
-		<b>Bachelor of Technology in Computer Scince and Engineering</b><br>
-		Mar Athanasius College of Engineering, Mahatma Gandhi University,
+		<h4>Bachelor of Technology in Computer Scince and Engineering</h4><br>
+		<b><a href="http://www.mace.ac.in/">Mar Athanasius College of Engineering</a>, 
+			<a href="http://www.mguniversity.edu/">Mahatma Gandhi University</a></b>,
 		October 2000 - May 2004 <p>
         </div>
 	<p><p><p>
@@ -90,7 +91,7 @@
 	            <h2>Work Experience</h2>
 	    
 
-	    <p><h4>University at Buffalo, The State University of New York, Buffalo, New York, USA</h4> <br>	
+	    <p><h4><a href="http://www.buffalo.edu">University at Buffalo, The State University of New York</a>, Buffalo, New York, USA</h4> <br>	
                <b>IT Graduate Assistant</b>, Office of International Education,
 	      October 2014 - May 2015, August 2015 - December 2015 <br><br>
 	      Provided technical support and implememted enhancements to the International Student Admission Database and the web sites of the
@@ -102,14 +103,14 @@
 	      Technologies/Languages: MS Access, VBA, MS SQL Server 2012<br>	      
 	      <p>
 	      <p>
-		<h4>Amazon.com, Seattle, Washington, USA</h4><br>
+		<h4><a href="http://www.amazon.com">Amazon.com</a>, Seattle, Washington, USA</h4><br>
 		<b>Software Development Engineer Intern</b>,
 		May 2015 - August 2015<br><br>
 		Modified an HTTP reverse proxy developed in C++ and added functionality to reroute HTTP traffic to reduce latency.
 		HTTP requests from clients were rerouted to the nearest available load balancer by the proxy using the information obtained from an existing service.<br>
 		Language/Libraries: C++,boost, STL,Curlpp, RapidJSON <br><br>
 		<p>
-		<h4>TATA Consultancy Services,Kochi,Kerala,India</h4><br>
+		<h4><a href="http://www.tcs.com">TATA Consultancy Services</a>,Kochi,Kerala,India</h4><br>
 		<b>Assistant Consultant</b>, July 2012 - July 2014<br><br>
 		Worked as a technical lead for a major banking and financial services client in the United States and led a team of 10 developers to install a critical module needed for a new process to send legal notification documents to card members.<br><br>
 		Technologies/Languages:Java/J2EE, Struts
@@ -119,7 +120,7 @@
 receivable data.
 		<p>
 		<p>
-		<h4>IBS Software Services,Trivandrum,Kerala,India</h4><br>
+		<h4><a href="www.ibsplc.com">IBS Software Services,Trivandrum,Kerala,India</h4><br>
 		<b>Project Lead</b>, April 2009 - November 2009<br>
 		iCargo - The flagship air cargo management system of IBS Software Services.<br><br>
 		Led a team of 8 developers to design, develop and implement custom change requests in iCargo for 3 different airline clients simultaneously.<br><br>
@@ -137,7 +138,7 @@ receivable data.
 		<b>Senior Software Engineer</b>, September 2006 - August 2007<br>
 		<br>Designed and developed a message broker module for generating, sending and processing standard cargo interchange messages mandated by the <br>  International Air Transport Association based on various events. <br>
 		Designed and developed a module for generating and sending standard US, Australian and New Zealand customs messages to report the airline cargo to the customs authorities of the respective countries.<br><br>
-		<b>Software Engineer</b>, June 2004 - August 2006<br>
+		<b>Software Engineer</b>, June 2004 - August 2006<br><br>
 		Provided production support to a ground handling system implemented at the Dubai International airport.<br>
         </div>
     </div>
