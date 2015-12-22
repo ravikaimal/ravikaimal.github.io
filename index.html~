@@ -85,6 +85,7 @@
 		October 2000 - May 2004 <p>
         </div>
 	<p><p><p>
+	<hr>
         <div class="col-md-12 text-left text-justify">
 	            <h2>Work Experience</h2>
 	    
@@ -122,11 +123,10 @@ receivable data.
 		Project Lead<br>
 		April 2009 - November 2009<br>
 		Led a team of 8 developers to design, develop and implement custom change requests in iCargo for 3 different airline clients simultaneously.<br>
-		Technical Lead<br>
-		October 2007 - March 2009
+		Technical Lead, October 2007 - March 2009
 		<br>
 		iCargo - The flagship air cargo management system of IBS Software Services. 
-		<br>
+		<br><br>
 		I played a major role in the system integration testing between iCargo and the legacy client system at the client location of a major airline in Sydney, Australia.<br>
 		The SIT was conducted by sending the standard cargo interchange messages mandated by the International Air Transport Association 
 		<br> to the client system using the client MQ queue to trigger transactions in the client system. The interface between the client MQ queue and iCargo was designed by using a JMS MQ bridge with the JMS queue hosted in a Weblogic server. I resolved the character format issues between<br>
